@@ -1,0 +1,525 @@
+Printing statistics for experiment in micro(diagonal line from top left to bottom right) and macro (rest): 
+----------------------------------------------------------------------------------------------------
+|class               |hexagon                  |straightCross            |triangle                 |
+----------------------------------------------------------------------------------------------------
+|                    |Output      |Input       |Output      |Input       |Output      |Input       |
+----------------------------------------------------------------------------------------------------
+|                    |Max 100     |Max 83.16   |Max 30      |Max 28.28   |Max 46.67   |Max 40.56   |
+|hexagon             |Avg 8.55    |Avg 32.94   |Avg 1.89    |Avg 8.27    |Avg 2.6     |Avg 16.41   |
+|                    |Min 0       |Min 4.11    |Min 0       |Min 0       |Min 0       |Min 4.4     |
+----------------------------------------------------------------------------------------------------
+|                    |Max 30      |Max 28.28   |Max 68.42   |Max 92.61   |Max 36.84   |Max 49.59   |
+|straightCross       |Avg 1.89    |Avg 8.27    |Avg 2.49    |Avg 49.03   |Avg 2.22    |Avg 18.76   |
+|                    |Min 0       |Min 0       |Min 0       |Min 9.83    |Min 0       |Min 4.51    |
+----------------------------------------------------------------------------------------------------
+|                    |Max 46.67   |Max 40.56   |Max 36.84   |Max 49.59   |Max 66.67   |Max 90.18   |
+|triangle            |Avg 2.6     |Avg 16.41   |Avg 2.22    |Avg 18.76   |Avg 1.78    |Avg 22.1    |
+|                    |Min 0       |Min 4.4     |Min 0       |Min 4.51    |Min 0       |Min 1.24    |
+----------------------------------------------------------------------------------------------------
+
+AVG Similarity To Category  hexagon  %3  ,Max Similarity: %26  ,Min Similarity: %0
+lengt1
+hexagon
+26
+3
+0
+
+AVG Similarity To Category  straightCross  %3  ,Max Similarity: %26  ,Min Similarity: %0
+lengt2
+hexagon
+26
+3
+0
+straightCross
+26
+3
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %52  ,Min Similarity: %0
+lengt3
+hexagon
+26
+3
+0
+straightCross
+26
+3
+0
+triangle
+52
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+
+
+AVG Similarity To Category  hexagon  %4  ,Max Similarity: %19  ,Min Similarity: %0
+lengt1
+hexagon
+19
+4
+0
+
+AVG Similarity To Category  straightCross  %3  ,Max Similarity: %19  ,Min Similarity: %0
+lengt2
+hexagon
+19
+4
+0
+straightCross
+19
+3
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %32  ,Min Similarity: %0
+lengt3
+hexagon
+19
+4
+0
+straightCross
+19
+3
+0
+triangle
+32
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+
+
+AVG Similarity To Category  hexagon  %3  ,Max Similarity: %13  ,Min Similarity: %0
+lengt1
+hexagon
+13
+3
+0
+
+AVG Similarity To Category  straightCross  %2  ,Max Similarity: %19  ,Min Similarity: %0
+lengt2
+hexagon
+13
+3
+0
+straightCross
+19
+2
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %39  ,Min Similarity: %0
+lengt3
+hexagon
+13
+3
+0
+straightCross
+19
+2
+0
+triangle
+39
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+
+
+AVG Similarity To Category  hexagon  %3  ,Max Similarity: %16  ,Min Similarity: %0
+lengt1
+hexagon
+16
+3
+0
+
+AVG Similarity To Category  straightCross  %3  ,Max Similarity: %19  ,Min Similarity: %0
+lengt2
+hexagon
+16
+3
+0
+straightCross
+19
+3
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %47  ,Min Similarity: %0
+lengt3
+hexagon
+16
+3
+0
+straightCross
+19
+3
+0
+triangle
+47
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+
+
+AVG Similarity To Category  hexagon  %3  ,Max Similarity: %15  ,Min Similarity: %0
+lengt1
+hexagon
+15
+3
+0
+
+AVG Similarity To Category  straightCross  %3  ,Max Similarity: %21  ,Min Similarity: %0
+lengt2
+hexagon
+15
+3
+0
+straightCross
+21
+3
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %52  ,Min Similarity: %0
+lengt3
+hexagon
+15
+3
+0
+straightCross
+21
+3
+0
+triangle
+52
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+
+
+AVG Similarity To Category  hexagon  %3  ,Max Similarity: %23  ,Min Similarity: %0
+lengt1
+hexagon
+23
+3
+0
+
+AVG Similarity To Category  straightCross  %3  ,Max Similarity: %23  ,Min Similarity: %0
+lengt2
+hexagon
+23
+3
+0
+straightCross
+23
+3
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %47  ,Min Similarity: %0
+lengt3
+hexagon
+23
+3
+0
+straightCross
+23
+3
+0
+triangle
+47
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+
+
+AVG Similarity To Category  hexagon  %4  ,Max Similarity: %22  ,Min Similarity: %0
+lengt1
+hexagon
+22
+4
+0
+
+AVG Similarity To Category  straightCross  %2  ,Max Similarity: %22  ,Min Similarity: %0
+lengt2
+hexagon
+22
+4
+0
+straightCross
+22
+2
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %48  ,Min Similarity: %0
+lengt3
+hexagon
+22
+4
+0
+straightCross
+22
+2
+0
+triangle
+48
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+
+
+AVG Similarity To Category  hexagon  %3  ,Max Similarity: %14  ,Min Similarity: %0
+lengt1
+hexagon
+14
+3
+0
+
+AVG Similarity To Category  straightCross  %3  ,Max Similarity: %17  ,Min Similarity: %0
+lengt2
+hexagon
+14
+3
+0
+straightCross
+17
+3
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %38  ,Min Similarity: %0
+lengt3
+hexagon
+14
+3
+0
+straightCross
+17
+3
+0
+triangle
+38
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+
+
+AVG Similarity To Category  hexagon  %3  ,Max Similarity: %16  ,Min Similarity: %0
+lengt1
+hexagon
+16
+3
+0
+
+AVG Similarity To Category  straightCross  %2  ,Max Similarity: %19  ,Min Similarity: %0
+lengt2
+hexagon
+16
+3
+0
+straightCross
+19
+2
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %31  ,Min Similarity: %0
+lengt3
+hexagon
+16
+3
+0
+straightCross
+19
+2
+0
+triangle
+31
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+
+
+AVG Similarity To Category  hexagon  %3  ,Max Similarity: %16  ,Min Similarity: %0
+lengt1
+hexagon
+16
+3
+0
+
+AVG Similarity To Category  straightCross  %3  ,Max Similarity: %16  ,Min Similarity: %0
+lengt2
+hexagon
+16
+3
+0
+straightCross
+16
+3
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %44  ,Min Similarity: %0
+lengt3
+hexagon
+16
+3
+0
+straightCross
+16
+3
+0
+triangle
+44
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+
+
+AVG Similarity To Category  hexagon  %2  ,Max Similarity: %16  ,Min Similarity: %0
+lengt1
+hexagon
+16
+2
+0
+
+AVG Similarity To Category  straightCross  %2  ,Max Similarity: %16  ,Min Similarity: %0
+lengt2
+hexagon
+16
+2
+0
+straightCross
+16
+2
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %38  ,Min Similarity: %0
+lengt3
+hexagon
+16
+2
+0
+straightCross
+16
+2
+0
+triangle
+38
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+
+
+AVG Similarity To Category  hexagon  %2  ,Max Similarity: %18  ,Min Similarity: %0
+lengt1
+hexagon
+18
+2
+0
+
+AVG Similarity To Category  straightCross  %3  ,Max Similarity: %18  ,Min Similarity: %0
+lengt2
+hexagon
+18
+2
+0
+straightCross
+18
+3
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %39  ,Min Similarity: %0
+lengt3
+hexagon
+18
+2
+0
+straightCross
+18
+3
+0
+triangle
+39
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+
+
+AVG Similarity To Category  hexagon  %3  ,Max Similarity: %18  ,Min Similarity: %0
+lengt1
+hexagon
+18
+3
+0
+
+AVG Similarity To Category  straightCross  %3  ,Max Similarity: %21  ,Min Similarity: %0
+lengt2
+hexagon
+18
+3
+0
+straightCross
+21
+3
+0
+
+AVG Similarity To Category  triangle  %3  ,Max Similarity: %36  ,Min Similarity: %0
+lengt3
+hexagon
+18
+3
+0
+straightCross
+21
+3
+0
+triangle
+36
+3
+0
+This Image does not belong to any category of trained images 
+here is the thin unwanted 
+ 
+
+Input Test Image triangle_38 is predicted as  non trained Input Category
+

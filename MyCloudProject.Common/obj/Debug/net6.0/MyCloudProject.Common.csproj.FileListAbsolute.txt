@@ -1,0 +1,12 @@
+D:\FRA-UAS\SoEng\git\se-cloud-2021-2022MahdiehBackupsDirectory\Auguest18\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net6.0\MyCloudProject.Common.deps.json
+D:\FRA-UAS\SoEng\git\se-cloud-2021-2022MahdiehBackupsDirectory\Auguest18\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net6.0\MyCloudProject.Common.dll
+D:\FRA-UAS\SoEng\git\se-cloud-2021-2022MahdiehBackupsDirectory\Auguest18\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net6.0\MyCloudProject.Common.pdb
+D:\FRA-UAS\SoEng\git\se-cloud-2021-2022MahdiehBackupsDirectory\Auguest18\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.csproj.AssemblyReference.cache
+D:\FRA-UAS\SoEng\git\se-cloud-2021-2022MahdiehBackupsDirectory\Auguest18\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\FRA-UAS\SoEng\git\se-cloud-2021-2022MahdiehBackupsDirectory\Auguest18\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.AssemblyInfoInputs.cache
+D:\FRA-UAS\SoEng\git\se-cloud-2021-2022MahdiehBackupsDirectory\Auguest18\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.AssemblyInfo.cs
+D:\FRA-UAS\SoEng\git\se-cloud-2021-2022MahdiehBackupsDirectory\Auguest18\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.csproj.CoreCompileInputs.cache
+D:\FRA-UAS\SoEng\git\se-cloud-2021-2022MahdiehBackupsDirectory\Auguest18\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.dll
+D:\FRA-UAS\SoEng\git\se-cloud-2021-2022MahdiehBackupsDirectory\Auguest18\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\refint\MyCloudProject.Common.dll
+D:\FRA-UAS\SoEng\git\se-cloud-2021-2022MahdiehBackupsDirectory\Auguest18\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\MyCloudProject.Common.pdb
+D:\FRA-UAS\SoEng\git\se-cloud-2021-2022MahdiehBackupsDirectory\Auguest18\se-cloud-2021-2022\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net6.0\ref\MyCloudProject.Common.dll
