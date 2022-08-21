@@ -347,21 +347,28 @@ As shown in fIgure 16, we can verify that the Docker Image is available on ACR b
 
 * 4- Deploy a container instance in Azure: [Guide](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-portal)
 
+
+Why Container Instance? An easy method for running a container in Azure is Azure Container Instances.
+
+
+
 By folowong the instructions as shown in Figure 17 we deployed a publicly accessible application in Azure Container Instances.
 
 Note that here we choose the Image source, Azure Container Registry and choose the available docker Image On Azure Countainer Registry which we deployed in section 3.
 
 
+
+![Create Container Instance](https://user-images.githubusercontent.com/74245613/185767673-f6a7cb87-1075-457e-8702-acc5a70bb2e2.jpg)
 <p align="center">Figure 17 : Deploy a container instance in Azure</p>
 
 
 
-
+![Container Instance](https://user-images.githubusercontent.com/74245613/185767696-0cdc6461-055a-497c-8b69-6edb1ae3ebc3.jpg)
 <p align="center">Figure 18 : Running the Image on container instance</p>
 
 
 
-
+![StatusContainerInstance](https://user-images.githubusercontent.com/74245613/185767706-246269b6-6ada-4a02-84d8-e00fe92cd554.jpg)
 <p align="center">Figure 19 : Status of Container Instance on Azure</p>
 
 ..........................................................................................................................................................................................................................................................................................
@@ -376,6 +383,8 @@ Note that here we choose the Image source, Azure Container Registry and choose t
 If you have any questions regarding the project you can reach me under my email: 
 * [University email](mahdieh.pirmoradian@stud.fra-uas.de)
 * [Email](pirmoradianm381@yahoo.com)
+
+
 
 
 
