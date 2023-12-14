@@ -17,7 +17,7 @@ the idea of the project was to train the system with a data set, that consisted 
 
 
 
-
+***HTM: HTM is used for prediction, anomaly detection, and understanding complex data streams. It's distinct from other machine learning methods, emphasizing a biological basis and focusing on time-based data.
 
 
 
