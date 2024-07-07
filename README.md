@@ -445,7 +445,6 @@ Note that here we choose the Image source, Azure Container Registry, and choose 
 
 
 If you have any questions regarding the project you can reach me under my email: 
-* [University email](mahdieh.pirmoradian@stud.fra-uas.de)
 * [Email](pirmoradianm381@yahoo.com)
 
 
